@@ -71,16 +71,10 @@ Features pure semantic HTML elements:
 
 ## OUTPUT
 
-1. **Header & Navigation**: Displays Balamurugan P's title, Saveetha Engineering College affiliation, profile photo, and clickable jump navigation links.
-2. **About Me**: Brief personal introduction along with a structured 2-column profile specification table.
-3. **Academic Background**: Clean HTML table detailing B.E. CSE (CGPA 7.92), HSC, and SSLC records.
-4. **Flagship Research Section**: Hydrogeological prediction research with an ensemble weights table (XGBoost 45%, LightGBM 35%, Random Forest 20%, Combined R² = 0.964, RMSE = 0.41m) and expandable SHAP feature attribution rankings.
-5. **Projects Catalog**: 6 machine learning projects (Fake News Detection, Heart Disease Prediction, Smart AI Chatbot, Movie Recommendation, Resume Ranking, and Lung Cancer Diagnostic Vision) in a tabular format.
-6. **Skills & Certifications**: Categorized technical competencies and verified Intellipaat certification records.
-7. **Contact Form**: Semantic form with inputs for name, email, inquiry type dropdown, and inquiry message with Submit and Reset buttons.
-8. **Footer**: MIT license attribution, academic copyright, and jump-to-top anchor.
+<img width="1894" height="995" alt="image" src="https://github.com/user-attachments/assets/901cb4c1-7d15-4d4b-a980-721ace4e6c76" />
+<img width="1916" height="978" alt="image" src="https://github.com/user-attachments/assets/710ca26a-d1e4-4965-b97b-85afe1ad6098" />
+<img width="1916" height="978" alt="image" src="https://github.com/user-attachments/assets/b1fbfb00-99c8-4ae8-b123-78e2526a8c62" />
 
----
 
 ## RESULT
 The program for creating a personal Portfolio using pure HTML only (without CSS) is executed and verified successfully.
