@@ -1,16 +1,11 @@
 # Ex01 Portfolio (HTML Only)
 
 ## Date: 02-11-2026
-**Student Name:** Balamurugan P  
-**Register / Roll No:** Saveetha Engineering College  
-**Department:** B.E. Computer Science and Engineering  
-**Institution:** Saveetha Engineering College, Chennai &bull; Tamil Nadu, India  
-**GitHub Repository:** [https://github.com/Balamurugan429/portfolio2](https://github.com/Balamurugan429/portfolio2)  
 
 ---
 
 ## AIM
-To design and develop a complete personal Portfolio web page using **pure HTML only (without external, internal, or inline CSS)**, utilizing semantic markup, structural tables, definition lists, media elements, anchor navigation, and interactive form elements.
+To create a Portfolio using HTML.
 
 ---
 
@@ -26,7 +21,7 @@ Create a structured `<header>` section with personal name, departmental affiliat
 Design a central `<nav>` bar containing internal anchor links (`#about`, `#education`, `#research`, `#projects`, `#skills`, `#certifications`, `#experience`, `#contact`) enabling smooth in-page navigation without scripting.
 
 ### STEP 4: About Me Section
-Incorporate personal summary, academic background, current CGPA (7.92 / 10 at Saveetha Engineering College), and a profile specification data table.
+Incorporate personal summary, academic background, and a profile specification data table.
 
 ### STEP 5: Academic Credentials
 Construct a structured tabular representation (`<table>`, `<thead>`, `<tbody>`, `<tr>`, `<th>`, `<td>`) detailing degree qualifications, institutions, durations, and grades.
